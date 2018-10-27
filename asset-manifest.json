@@ -1,0 +1,14 @@
+{
+  "main.css": "/helloworld/static/css/main.841caac1.chunk.css",
+  "main.js": "/helloworld/static/js/main.2c7d8bec.chunk.js",
+  "main.js.map": "/helloworld/static/js/main.2c7d8bec.chunk.js.map",
+  "static/js/1.37f90d57.chunk.js": "/helloworld/static/js/1.37f90d57.chunk.js",
+  "static/js/1.37f90d57.chunk.js.map": "/helloworld/static/js/1.37f90d57.chunk.js.map",
+  "runtime~main.js": "/helloworld/static/js/runtime~main.607eba3d.js",
+  "runtime~main.js.map": "/helloworld/static/js/runtime~main.607eba3d.js.map",
+  "static/media/logo.svg": "/helloworld/static/media/logo.5d5d9eef.svg",
+  "static/css/main.841caac1.chunk.css.map": "/helloworld/static/css/main.841caac1.chunk.css.map",
+  "index.html": "/helloworld/index.html",
+  "precache-manifest.a29138a9b7cba4606b38100c8be4f9c2.js": "/helloworld/precache-manifest.a29138a9b7cba4606b38100c8be4f9c2.js",
+  "service-worker.js": "/helloworld/service-worker.js"
+}
